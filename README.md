@@ -2,7 +2,6 @@
 
 A delightful web application that lets users create personalized Valentine's Day cards with custom questions, GIFs, and interactive elements to share with their loved ones.
 
-![Valentine's Day Card Creator](https://i.giphy.com/XxEy4h6YxKE2H5TZ1x.webp)
 
 ## 🌟 Features
 
